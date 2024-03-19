@@ -1,3 +1,5 @@
+import { defineConfig } from "vite";
+
 export default defineConfig({
   start: {
     server: {
@@ -9,4 +11,4 @@ export default defineConfig({
       },
     },
   },
-})
+});
